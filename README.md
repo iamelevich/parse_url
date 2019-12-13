@@ -1,6 +1,17 @@
 # CLI URL Parser
 
 Simple URL query parser.
+
+## Installation
+
+With `cargo`:
+
+```sh
+cargo install parse_url
+```
+
+## Usage
+
 Use:
 
 ```sh
